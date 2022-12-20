@@ -1,0 +1,8 @@
+{
+    "tree_size": 20,
+    "cells": 200,
+    "bins": 1500,
+    "high_noise": false,
+    "n": 3,
+    "conet_binary_dir": "/code/"
+}
